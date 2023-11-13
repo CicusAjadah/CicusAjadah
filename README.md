@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm David
 ---
 
-Final year university student, currently doing internship on <a href=https://www.len.co.id/>PT Len Industri</a> as a Software Engineer specialized as a Desktop Developer. Love to learn new things either it's from technology or other things. Enjoyed to code with Java but also can code with Python and Kotlin for web application and android application.
+Final year university student, currently doing an internship on <a href=https://www.len.co.id/>PT Len Industri</a> as a Software Engineer specializing as a Desktop Developer. Love to learn new things whether it's from technology or other things. I enjoy coding with Java but also can code with Python and Kotlin for Web applications and Android applications.
 - 🔭 I’m currently doing internship on <a href=https://www.len.co.id/>PT Len Industri</a>
 - 📫 How to reach me : fransiskus.david@ui.ac.id
-- ⚡ Fun fact : Drama genre in a fiction story is a love hate relationship for me. 
+- ⚡ Fun fact : Drama genre in a fiction story is a love-hate relationship for me. 
 
 ### Github Statistics
 <p align="left">
 <a href="https://github.com/CicusAjadah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CicusAjadah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CicusAjadah&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CicusAjadah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CicusAjadah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
