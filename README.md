@@ -26,9 +26,6 @@ Final year university student, currently doing an internship on <a href=https://
 - Email :  fransiskus.david@ui.ac.id 
 
 ---
-#### Out of Topic 
- - Steam : <a href=https://steamcommunity.com/id/Cicoes/> Darius </a>
-<!--
 **CicusAjadah/CicusAjadah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
