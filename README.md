@@ -2,7 +2,6 @@
 ---
 
 Final year university student, currently doing an internship on <a href=https://www.len.co.id/>PT Len Industri</a> as a Software Engineer specializing as a Desktop Developer. Love to learn new things whether it's from technology or other things. I enjoy coding with Java but also can code with Python and Kotlin for Web applications and Android applications.
-- 🔭 I’m currently doing internship on <a href=https://www.len.co.id/>PT Len Industri</a>
 - 📫 How to reach me : fransiskus.david@ui.ac.id
 - ⚡ Fun fact : Drama genre in a fiction story is a love-hate relationship for me. 
 
