@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm David
 ---
 
-Final year university student, currently doing an internship on <a href=https://www.len.co.id/>PT Len Industri</a> as a Software Engineer specializing as a Desktop Developer. Love to learn new things whether it's from technology or other things. I enjoy coding with Java but also can code with Python and Kotlin for Web applications and Android applications.
-- 📫 How to reach me : fransiskus.david@ui.ac.id
-- ⚡ Fun fact : Drama genre in a fiction story is a love-hate relationship for me. 
+Hello I am David, currently I am working at <a href=https://ameliore-solutions.com/>Ameliore Solusi Analitika</a> as a Full Stack Developer specializing at Springboot and Svelte. Love to learn new things whether it's from technology or other things. I enjoy coding with Java but also can code with Python and Kotlin for Web applications and Android applications. I also have an intense passion with Android application such as Kotlin, well it is in JVM too but yeah.
+- 📫 How to reach me : david.yudaputra@gmail.com
+- ⚡ Fun fact : Drama genre in a fiction story is a love-hate relationship for me.
+- 🚀 Hobby : See the world beyond what i knew.
 
 ### Github Statistics
 <p align="left">
@@ -21,7 +22,6 @@ Final year university student, currently doing an internship on <a href=https://
   <code><img alt="Springboot" title="Springboot (Java Web Development Framework)" width="36px" src="https://www.nextre.it/wp-content/uploads/2020/09/spring-boot-scaled-1.jpg" /></code> <br>
 
 ### Connect with me
-- LinkedIn : <a href=https://www.linkedin.com/in/fransiskus-david-yudaputra-147929205/> Fransiskus David Yudaputra </a>
-- Email :  fransiskus.david@ui.ac.id 
+[![fransiskusdavid Badge](https://img.shields.io/badge/fransiskusdavid-427bff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fransiskus-david-yudaputra-147929205/) [![fransiskusdavid Badge](https://img.shields.io/badge/fransiskusdavid-ffa3a3?style=flat-square&logo=gmail)](mailto:david.yudaputra@gmail.com) 
 
 ---
